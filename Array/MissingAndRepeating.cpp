@@ -11,7 +11,7 @@
 // Explanation: Repeating number is 2 and 
 // smallest positive missing number is 1.
 
-//? Example 2:
+// ? Example 2:
 // Input:
 // N = 3
 // Arr[] = {1, 3, 3}

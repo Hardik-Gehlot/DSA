@@ -1,6 +1,7 @@
 // https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1
 // Problem:
-// You are given an array arr[] of N integers including 0. The task is to find the smallest positive number missing from the array.
+// You are given an array arr[] of N integers including 0. The task is to find the smallest positive
+// number missing from the array.
 
 // Example 1:
 // Input:

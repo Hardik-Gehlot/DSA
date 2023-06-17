@@ -1,3 +1,4 @@
+// https://practice.geeksforgeeks.org/problems/first-repeating-element4018/1
 // Problem:
 // Given an array arr[] of size N. The task is to find the first repeating element in the array of
 // integers, i.e., an element that occurs more than once and whose index of first occurrence is
@@ -16,6 +17,8 @@
 // Explanation:
 // 5 is appearing twice and its first appearance is at index 2 which is less than 3 whose first
 // occurring index is 3.
+
+
 #include<iostream>
 using namespace std;
 int main(){
